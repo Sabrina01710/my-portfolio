@@ -110,8 +110,9 @@ border-radius: 7px;
     text-align: center;
 
 }
-.grid-single-item .fa-icon-size{
-    font-size: 4rem;
+
+ .grid-single-item h2{ 
+    margin: 15px 0;
 }
 .grid-single-item p{
     color:rgb(80, 58, 58);
@@ -120,11 +121,11 @@ border-radius: 7px;
 .grid-single-item .grid-single-image{
     width: 250px;
 }
-.work-item{
+/* .work-item{
     display: grid;
     grid-template-columns: auto;
-    text-align: center;
-}
+    text-align: center; */
+/* } */
 /* Testimonial section */
 /* .single-item-color{
     color: black !important;
@@ -162,7 +163,7 @@ textarea{
 } */
 
 .image img{
-    width: 180px;
+    width: 300px;
     height: auto;
     margin-right: 30px;
     border-radius: 30%;
